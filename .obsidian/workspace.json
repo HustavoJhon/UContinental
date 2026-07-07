@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "554bd636900334bb",
+        "id": "e9bb5f3a852d72e0",
         "type": "tabs",
         "children": [
           {
-            "id": "eeadd2ce50e2d495",
+            "id": "72bc99f40216a7fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "resources/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "e711fff7212fea2e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,19 +183,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e711fff7212fea2e",
+  "active": "72bc99f40216a7fa",
   "lastOpenFiles": [
-    "resources/math/Linear Algebra",
-    "resources/math/Analytic Geometry",
-    "resources/math/Analytic Geometry/Analytic Geometry.md",
-    "Pasted Image 20250907115856_909.png",
+    "resources/documentation/software analysis & design/diagram use case.png",
+    "resources/README.md",
+    "resources/development/Web/Grupo03_EcoSunTech/src/pages/servicios.html",
+    "resources/development/Web/Grupo03_EcoSunTech/src/pages/productos.html",
+    "resources/development/Web/Grupo03_EcoSunTech/src/pages/nosotros.html",
+    "resources/development/Web/Grupo03_EcoSunTech/src/pages/contactos.html",
+    "resources/development/Web/Grupo03_EcoSunTech/src/pages",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/team/rodri.jpg",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/team/liz.jpg",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/team/gustavo.jpg",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/team",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/servicios/monitor.png",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/servicios/mantenimiento.png",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/servicios/instalacion.png",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/servicios/consultoria.png",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/servicios",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/panel.jpg",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/inversor.webp",
+    "resources/development/Web/Grupo03_EcoSunTech/src/img/bateria_litio.jpg",
+    "resources/development/Web/Grupo03_EcoSunTech/src/css/style.css",
+    "resources/development/Web/Grupo03_EcoSunTech/src/css/servicios.css",
+    "resources/development/Web/Grupo03_EcoSunTech/src/css/productos.css",
     "README.md",
+    "resources/math/Analytic Geometry/Analytic Geometry.md",
     "Excalidraw/Drawing 2025-09-07 11.53.07.excalidraw.md",
-    "Excalidraw",
-    "resources/development/C++/README.md~",
     "resources/development/Java/README.md",
     "resources/development/C++/README.md",
-    "contributors-shield.md",
-    "README.md~"
+    "contributors-shield.md"
   ]
 }

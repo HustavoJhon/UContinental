@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiScrollText"
+      "LiImage",
+      "LiSquareSigma",
+      "LiNotebookText",
+      "LiCodeXml",
+      "LiSaveAll"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +34,26 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "README.md": "LiScrollText"
+  "README.md": "LiScrollText",
+  "assets": {
+    "iconName": "LiHandPlatter",
+    "iconColor": "#036d28"
+  },
+  "resources": {
+    "iconName": "LiSaveAll",
+    "iconColor": "#a5188e"
+  },
+  "resources/development": {
+    "iconName": "LiCodeXml",
+    "iconColor": "#2b3791"
+  },
+  "resources/documentation": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#a8c41c"
+  },
+  "resources/math": {
+    "iconName": "LiSquareSigma",
+    "iconColor": "#86480e"
+  },
+  "assets/img": "LiImage"
 }
